@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robo/static/css/main.dec07e0c.chunk.css",
-    "main.js": "/robo/static/js/main.94ff1ac2.chunk.js",
-    "main.js.map": "/robo/static/js/main.94ff1ac2.chunk.js.map",
-    "runtime-main.js": "/robo/static/js/runtime-main.5e1c8283.js",
-    "runtime-main.js.map": "/robo/static/js/runtime-main.5e1c8283.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/robo/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.43071c07.chunk.js": "/robo/static/js/2.43071c07.chunk.js",
-    "static/js/2.43071c07.chunk.js.map": "/robo/static/js/2.43071c07.chunk.js.map",
-    "index.html": "/robo/index.html",
-    "precache-manifest.8836e5a90064d094d8e53fc1d66203cc.js": "/robo/precache-manifest.8836e5a90064d094d8e53fc1d66203cc.js",
-    "service-worker.js": "/robo/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/robo/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.dec07e0c.chunk.css.map": "/robo/static/css/main.dec07e0c.chunk.css.map",
-    "static/js/2.43071c07.chunk.js.LICENSE.txt": "/robo/static/js/2.43071c07.chunk.js.LICENSE.txt"
+    "main.css": "/ROBO/static/css/main.dec07e0c.chunk.css",
+    "main.js": "/ROBO/static/js/main.2e571b5a.chunk.js",
+    "main.js.map": "/ROBO/static/js/main.2e571b5a.chunk.js.map",
+    "runtime-main.js": "/ROBO/static/js/runtime-main.16a8ca3f.js",
+    "runtime-main.js.map": "/ROBO/static/js/runtime-main.16a8ca3f.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/ROBO/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.43071c07.chunk.js": "/ROBO/static/js/2.43071c07.chunk.js",
+    "static/js/2.43071c07.chunk.js.map": "/ROBO/static/js/2.43071c07.chunk.js.map",
+    "index.html": "/ROBO/index.html",
+    "precache-manifest.838fa9404fe0e4614f8e4c185fee1856.js": "/ROBO/precache-manifest.838fa9404fe0e4614f8e4c185fee1856.js",
+    "service-worker.js": "/ROBO/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/ROBO/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.dec07e0c.chunk.css.map": "/ROBO/static/css/main.dec07e0c.chunk.css.map",
+    "static/js/2.43071c07.chunk.js.LICENSE.txt": "/ROBO/static/js/2.43071c07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e1c8283.js",
+    "static/js/runtime-main.16a8ca3f.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.43071c07.chunk.js",
     "static/css/main.dec07e0c.chunk.css",
-    "static/js/main.94ff1ac2.chunk.js"
+    "static/js/main.2e571b5a.chunk.js"
   ]
 }
